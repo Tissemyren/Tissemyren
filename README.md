@@ -1,4 +1,4 @@
-👋, Jeg er Pismyren :P
+👋, Im Theodor
 
 <!---
 Tissemyren/Tissemyren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
