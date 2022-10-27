@@ -1,6 +1,2 @@
-👋, Im Theodor
-
-<!---
-Tissemyren/Tissemyren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 allign="center">Hi 👋, Im Theodor</h1>
+<h3 allign="center">A weird boy from Denmark that loves to code in his freetime :D</h3>
