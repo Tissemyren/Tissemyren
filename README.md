@@ -1,2 +1,2 @@
-<h1 allign="center">Hi 👋, Im Theodor</h1>
-<h3 allign="center">A weird boy from Denmark that loves to code in his freetime :D</h3>
+<h1 allign="center">Hi 👋, Im Tissemyren</h1>
+<h3 allign="center">A buy that loves to code in his free time and hope to be a software developer one day</h3>
