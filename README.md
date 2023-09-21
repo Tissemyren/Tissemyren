@@ -1,2 +1,2 @@
 <h1 allign="center">Hi 👋, Im Tissemyren</h1>
-<h3 allign="center">A buy that loves to code in his free time and hope to be a software developer one day</h3>
+<h3 allign="center">Currently learning Java so that i can make amazing Minecraft plugins 😀</h3>
